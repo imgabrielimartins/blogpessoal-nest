@@ -71,6 +71,7 @@ npm run test:e2e
 🗂️ Estrutura do Projeto
 
 src/
+
  ├── auth/
 
  ├── usuario/
@@ -80,7 +81,7 @@ src/
  ├── tema/
 
  ├── config/
- 
+
  └── main.ts
 
 📡 Principais Endpoints
