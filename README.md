@@ -72,10 +72,15 @@ npm run test:e2e
 
 src/
  ├── auth/
+
  ├── usuario/
+
  ├── postagem/
+
  ├── tema/
+
  ├── config/
+ 
  └── main.ts
 
 📡 Principais Endpoints
